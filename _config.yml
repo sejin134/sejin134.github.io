@@ -325,7 +325,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: post in _posts/0000-00-00-welcome-to-jekyll.markdown
       author_profile: true
       read_time: true
       comments: # true
