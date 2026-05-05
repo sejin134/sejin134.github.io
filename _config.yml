@@ -114,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "sejin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Personal archive for college entrance exams"
+  location         : "해룡고등학교"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
